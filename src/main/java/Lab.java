@@ -26,6 +26,10 @@ public class Lab {
      * @return text.
      */
     public String copy(String text){
-        return "return text please!";
+        System.out.println("return text please");
+        System.out.println("hello"); 
+        System.out.println("text"); 
+        System.out.println("polly"); 
+        return text;
     }
 }
